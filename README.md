@@ -2,7 +2,7 @@
 
 **An Interactive Educational Platform for Computer Vision & Neural Networks.**
 
-![Platform Banner](https://via.placeholder.com/1000x300?text=Deep+Learning+Visualizer+Platform)
+![Platform Banner](assets/banner.png)
 
 This repository contains a powerful, interactive visualizer built with **PyTorch** and **Streamlit**. It is designed to help students, researchers, and enthusiasts understand the inner workings of Convolutional Neural Networks (CNNs), Diffusion Models, and training dynamics.
 
